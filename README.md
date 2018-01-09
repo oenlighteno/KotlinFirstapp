@@ -18,6 +18,8 @@ git config
 
 git add .
 
+git log
+
 *for set git to auto replace CR and CRLF ("true" or "false" or "input")
 
 https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf
