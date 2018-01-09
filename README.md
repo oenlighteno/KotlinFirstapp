@@ -38,3 +38,7 @@ https://stackoverflow.com/questions/9483757/how-to-exit-git-log-or-git-diff
 You're in the less program, which makes the output of git log scrollable.
 
 Type q to exit this screen. Type h to get help.
+
+*your own server by gitlab
+
+https://about.gitlab.com/
