@@ -1,4 +1,4 @@
-﻿echo "# KotlinFirstapp" >> README.md
+echo "# KotlinFirstapp" >> README.md
 git init
 git status
 git add README.md
