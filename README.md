@@ -15,3 +15,9 @@ git push -u origin master
 git pull
 
 git config
+
+git add .
+
+*for set git to auto replace CR and CRLF
+
+https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf
